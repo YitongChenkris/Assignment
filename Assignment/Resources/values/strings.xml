@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="action_settings">Settings</string>
+  <string name="username">Username</string>
+  <string name="FirstName">First Name</string>
+  <string name="LastName">Last Name</string>
+  <string name="phone">Phone No</string>
+  <string name="email">Email</string>
+  <string name="country">Country</string>
+  <string name="passsword">Password</string>
+  <string name="confirm">Confirm Password</string>
+  <string name="register">Register</string>
+  <string name="imageDescription"> Item\'s Image</string>
+  <string name="action_logout">Logout</string>
+  <string name="action_post">Post</string>
+  <string name="action_profile">Profile</string>
+  <string name="google_maps_key">AIzaSyBscGmpX48g1Kv_q-37m8M6j8guhCgyQrw</string>
+</resources>
